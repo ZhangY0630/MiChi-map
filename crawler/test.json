@@ -1,0 +1,90 @@
+{
+    "results": [
+        {
+            "hits": [
+                {
+                    "_geoloc": {
+                        "lat": 38.563972,
+                        "lng": -121.46512
+                    },
+                    "city_name": "Sacramento",
+                    "country_name": "United States",
+                    "cuisine_type": "Contemporary",
+                    "michelin_award": "BIB_GOURMAND",
+                    "name": "Canon",
+                    "street": "1719 34th St.",
+                    "objectID": "8586",
+                    "_highlightResult": {
+                        "_geoloc": {
+                            "lat": {
+                                "value": "38.563972",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            "lng": {
+                                "value": "-121.46512",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        },
+                        "area_name": {
+                            "value": "Sacramento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "city_name": {
+                            "value": "Sacramento",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "country_name": {
+                            "value": "United States",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "cuisine_type": {
+                            "value": "Contemporary",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "michelin_award": {
+                            "value": "BIB_GOURMAND",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "name": {
+                            "value": "Canon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "postcode": {
+                            "value": "95801",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "region_name": {
+                            "value": "California",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "street": {
+                            "value": "1719 34th St.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "nbHits": 13821,
+            "page": 0,
+            "nbPages": 13821,
+            "hitsPerPage": 1,
+            "exhaustiveNbHits": false,
+            "query": "",
+            "queryAfterRemoval": "",
+            "params": "hitsPerPage=1&attributesToRetrieve=%5B%22_geoloc%22%2C%22city_name%22%2C%22country_name%22%2C%22cuisine_type%22%2C%22street%22%2C%22michelin_award%22%2C%22name%22%5D&page=0&filters=status%3A+Published",
+            "index": "prod-restaurants-en",
+            "processingTimeMS": 1
+        }
+    ]
+}
